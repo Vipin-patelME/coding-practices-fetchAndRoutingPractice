@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.image-style {
+  height: 180px;
+  width: 350px;
+  margin: 20px;
+}
+.avatar-image-style {
+  height: 30px;
+  width: 35px;
+  margin-right: 10px;
+}
+.List-items {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.list-card {
+  width: 40%;
+}
+.author-cont {
+  display: flex;
+  align-items: center;
+}
